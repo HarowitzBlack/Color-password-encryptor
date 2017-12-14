@@ -1,4 +1,4 @@
-# Color-password-encryptor
+# Color-password-Generator
 
 Made for reddit post r/programmerhumour. I'm freezer9 from reddit, if you're confused about usernames.
 
@@ -8,7 +8,7 @@ Made for reddit post r/programmerhumour. I'm freezer9 from reddit, if you're con
 The main code contains in ps.py file
 
 
-    Encripts passwords using hex colors
+    Generates passwords using hex colors
     Copyright (C) 2017  Joel Benjamin
 
     This program is free software: you can redistribute it and/or modify
